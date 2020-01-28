@@ -1,6 +1,14 @@
+
+
+
+# User Defined files
 a.Project
 a.Progress
 doc/private
+
+# Additional file types not covered by standard github python gitignore file
+*~
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
